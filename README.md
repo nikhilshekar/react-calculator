@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<a href="https://react-calculator-j953.onrender.com/"><h3>Live Link</h3></a>
+<a href="https://react-calculator-j953.onrender.com/">Live Link</a>
 
 ## Available Scripts
 
